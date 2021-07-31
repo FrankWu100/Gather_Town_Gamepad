@@ -1,6 +1,8 @@
 # Gather_Town_Gamepad
 Playing Gather Town with Game Controller!
 
+[![YouTube](https://i.imgur.com/Q5RzS9P.png)](https://studio.youtube.com/video/jXToRkFTSz8/edit)
+
 ## Note
 * Support Xbox Game Controller, PS DUALSHOCK 4. (Other should also be supported)
 * Can detect and support multi game controller at same time.
