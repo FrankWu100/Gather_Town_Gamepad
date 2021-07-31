@@ -141,6 +141,7 @@
                             switch (i) {
                                 case 0:
                                     console.log("A");
+                                    simulateKeyPress("keydown", "G");
                                     break;
                                 case 1:
                                     console.log("B");
@@ -207,6 +208,8 @@
                         if (buttonsHolds[id][i] == true) {
                             switch (i) {
                                 case 0:
+                                    console.log("A");
+                                    simulateKeyPress("keyup", "G");
                                     break;
                                 case 1:
                                     console.log("B");
