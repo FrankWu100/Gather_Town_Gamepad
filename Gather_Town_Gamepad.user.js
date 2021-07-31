@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Gather Town with Game Controller
 // @namespace    https://github.com/FrankWu100/Gather_Town_Gamepad
-// @version      0.2
+// @version      0.3
 // @description  Playing Gather Town with Game Controller!
 // @author       Frank Wu
 // @match        https://gather.town/app/*
